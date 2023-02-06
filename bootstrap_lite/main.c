@@ -49,7 +49,7 @@
 
 #include "ops.c" // misc, too clogged otherwise
 
-#define HEN_REPO_URL "http://917hu8k0n73n7.psp2.dev/hen/"
+#define HEN_REPO_URL "https://github.com/TecnoRodriguez/henlo_jb/"
 #define VDEP_VPK_FNAME "vdep.vpk"
 #define TAIHEN_K_FNAME "taihen.skprx"
 #define TAIHEN_C_FNAME "config.txt" // default config.txt
